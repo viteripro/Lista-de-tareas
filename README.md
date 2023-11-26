@@ -13,8 +13,4 @@ Realice una lista de tareas pendientes en las que se iran generando una detras d
 - [ https://viteripro.github.io/Lista-de-tareas/]( https://viteripro.github.io/Lista-de-tareas/)
 
 ## Instalación
-Este proyecto no necesita de instalación. Simmplemente abre la carpeta o haz click en el .html
-
-## Contratación
-Si quieres contratarme puedes escribirme a gmail.com para consultas
-
+Este proyecto no necesita de instalación. Simmplemente abre la carpeta o haz click en el link para ver el archivo en vivo
