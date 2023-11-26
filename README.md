@@ -4,6 +4,11 @@ Realice una lista de tareas pendientes en las que se iran generando una detras d
 ## Autor
 **Luis Viteri**
 
+## Tecnologias
+- HTML
+- CSS
+- JavaScript
+
 ## Ver ejemplo en vivo
 - []()
 
