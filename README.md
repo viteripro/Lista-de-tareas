@@ -10,7 +10,7 @@ Realice una lista de tareas pendientes en las que se iran generando una detras d
 - JavaScript
 
 ## Ver ejemplo en vivo
-- []()
+- [ https://viteripro.github.io/Lista-de-tareas/]( https://viteripro.github.io/Lista-de-tareas/)
 
 ## Instalación
 Este proyecto no necesita de instalación. Simmplemente abre la carpeta o haz click en el .html
